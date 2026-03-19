@@ -138,10 +138,10 @@ export default function Home() {
           </div>
 
           <div className="space-x-4">
-            <a href="https://leetcode.com/u/2300032389/" target="_blank" className="hover:text-blue-500">LeetCode</a>
+            <a href="https://www.linkedin.com/in/jayasimha-v-020783312/" target="_blank" className="hover:text-blue-500">LinkedIn</a>
             <a href="https://www.codechef.com/users/klu2300032389" target="_blank" className="hover:text-blue-500">CodeChef</a>
             <a href="https://codeforces.com/profile/klu2300032389" target="_blank" className="hover:text-blue-500">Codeforces</a>
-            <a href="https://www.linkedin.com/in/jayasimha-v-020783312/" target="_blank" className="hover:text-blue-500">LinkedIn</a>
+            <a href="https://leetcode.com/u/2300032389/" target="_blank" className="hover:text-blue-500">LeetCode</a>
           </div>
 
         </div>
