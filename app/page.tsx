@@ -31,7 +31,7 @@ export default function Home() {
           </p>
 
           <a
-            href="/resume.pdf"
+            href="/resume_v2.pdf"
             className="bg-blue-500 hover:bg-blue-600 px-5 py-2 rounded mt-5 inline-block"
           >
             Download Resume
