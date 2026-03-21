@@ -27,7 +27,7 @@ export default function Home() {
           </h1>
           
           <p className="text-gray-400 mt-3 text-lg">
-            Computer Science Student |||| DSA | Python | SQL | Real World Projects Building
+            Computer Science Student | DSA | Python | SQL | Real World Projects Building
           </p>
 
           <a
