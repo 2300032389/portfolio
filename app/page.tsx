@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-
+//
 export default function Home() {
   return (
     <main className="bg-[#0f172a] text-white min-h-screen">
@@ -25,7 +25,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-bold">
             Hi, I'm <span className="text-blue-500">V Jayasimha</span> 👋
           </h1>
-
+          
           <p className="text-gray-400 mt-3 text-lg">
             Computer Science Student | DSA | Python | SQL | Real World Projects Building
           </p>
