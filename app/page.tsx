@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-//
+//hi
 export default function Home() {
   return (
     <main className="bg-[#0f172a] text-white min-h-screen">
