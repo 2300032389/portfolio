@@ -39,8 +39,8 @@ export default function Home() {
         </div>
 
         <Image
-          src="/profile.jpg"
-          alt="profile"
+          src="/profile1.jpg"
+          alt="profile1"
           width={160}
           height={160}
           className="rounded-full mt-8 md:mt-0 border-4 border-blue-500"
